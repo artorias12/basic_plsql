@@ -1,8 +1,9 @@
 # Basic PLSQL
+## A simple example on how to create table, insert data as well as create and test function
 
 Prerequisites:
-1. oracle 18 XE
-2. SQL Developer or any other your favorite SQL editor
+1. oracle 18c XE
+2. SQL Developer or any other your favorite SQL editors
 
 Step to run the simple progject:
 1. Execute the master_customer.sql inside ddl folder to create the master_customer tabe
